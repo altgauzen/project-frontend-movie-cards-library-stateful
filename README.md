@@ -1,7 +1,21 @@
-### Termos e acordos
+# project-frontend-movie-card-library-stateful
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e
-do Manual da Pessoa Estudante da Trybe.
+## Meus Comentários
+
+Este foi um projeto individual feito na Trybe no Módulo de Front-end onde aprendi sobre Componentes com Estado e Eventos, e também sobre Formulários no React.
+
+Aprendí neste Projeto a: 
+ - Ler o estado de um componente e usá-lo para alterar o que exibimos no browser;
+ - Inicializar um componente, dando a ele um estado pré-definido;
+ - Atualizar o estado de um componente;
+ - Capturar eventos utilizando a sintaxe do React;
+ - Criar formulários utilizando sintaxe JSX com as tags : `input`, `textarea`, `select`, `form`;
+ - Transmitir informações de componentes filhos para componentes pais via callbacks.
+
+Aproveitamento: 100% de aprovação pelos avaliadores da Trybe.
+
+---
+
 
 # Boas vindas ao repositório do projeto de Movie Cards Library Stateful!
 
